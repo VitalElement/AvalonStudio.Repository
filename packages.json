@@ -1,0 +1,8 @@
+{
+  "Packages": [
+    {
+      "Name": "AvalonStudio.Toolchains.STM32",
+      "Url": "https://github.com/VitalElement/AvalonStudio.Toolchains.STM32.git"
+    }
+  ]
+}
