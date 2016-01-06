@@ -2,7 +2,7 @@
   "Packages": [
     {
       "Name": "AvalonStudio.Toolchains.STM32",
-      "Url": "https://github.com/VitalElement/AvalonStudio.Toolchains.STM32.git"
+      "Url": "https://raw.githubusercontent.com/VitalElement/AvalonStudio.Toolchains.STM32/master/packageindex.json"
     }
   ]
 }
