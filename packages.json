@@ -7,6 +7,10 @@
     {
       "Name": "AvalonStudio.Toolchains.STM32",
       "Url": "https://raw.githubusercontent.com/VitalElement/AvalonStudio.Toolchains.STM32/master/packageindex.json"
+    },
+    {
+      "Name": "AvalonStudio.Debugging.OpenOCD",
+      "Url": "https://raw.githubusercontent.com/VitalElement/AvalonStudio.Debugging.OpenOCD/master/packageindex.json"
     }    
   ]
 }
