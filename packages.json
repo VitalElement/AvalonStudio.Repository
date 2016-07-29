@@ -1,6 +1,10 @@
 {
   "Packages": [
     {
+      "Name": "AvalonStudio.Toolchains.Clang",
+      "Url": "https://raw.githubusercontent.com/VitalElement/AvalonStudio.Toolchains.Clang/master/packageindex.json"
+    },
+    {
       "Name": "AvalonStudio.Toolchains.LocalGCC",
       "Url": "https://raw.githubusercontent.com/VitalElement/AvalonStudio.Toolchains.LocalGCC/master/packageindex.json"
     },
