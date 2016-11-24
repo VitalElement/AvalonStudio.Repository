@@ -1,6 +1,10 @@
 {
   "Packages": [
     {
+      "Name": "AvalonStudio.Languages.CSharp",
+      "Url": "https://raw.githubusercontent.com/VitalElement/AvalonStudio.Languages.CSharp/master/packageindex.json"
+    },
+    {
       "Name": "AvalonStudio.Languages.D",
       "Url": "https://raw.githubusercontent.com/VitalElement/AvalonStudio.Languages.D/master/packageindex.json"
     },
